@@ -48,20 +48,8 @@ int main() {
 
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
 ##OUTPUT
-![](file:///home/user/os/exp02/Linux-Process-API-fork-wait-exec/img/Screenshot%20at%202025-05-13%2017-53-11.png) 
+![](./img/Screenshot%20at%202025-05-13%2017-53-11.png) 
 
 
 
@@ -115,7 +103,7 @@ int main() {
 ```
 
 ##OUTPUT
-![](file:///home/user/os/exp02/Linux-Process-API-fork-wait-exec/img/Screenshot%20at%202025-05-13%2018-00-57.png) 
+![](./img/Screenshot%20at%202025-05-13%2018-00-57.png) 
 
 # RESULT:
 The programs are executed successfully.
