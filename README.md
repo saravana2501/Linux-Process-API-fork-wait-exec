@@ -51,11 +51,6 @@ int main() {
 ##OUTPUT
 
 
-![image](https://github.com/user-attachments/assets/77fb0b2f-f189-4963-8422-9569d97194b4)
-
-
-
-
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -108,7 +103,6 @@ int main() {
 ##OUTPUT
 
 
-![image](https://github.com/user-attachments/assets/9719b811-6cec-46a9-875a-ab0efb3489cb)
 
 
 # RESULT:
