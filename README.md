@@ -49,6 +49,8 @@ int main() {
 
 ```
 ##OUTPUT
+
+
 ![image](https://github.com/user-attachments/assets/77fb0b2f-f189-4963-8422-9569d97194b4)
 
 
@@ -104,6 +106,8 @@ int main() {
 ```
 
 ##OUTPUT
+
+
 ![image](https://github.com/user-attachments/assets/9719b811-6cec-46a9-875a-ab0efb3489cb)
 
 
