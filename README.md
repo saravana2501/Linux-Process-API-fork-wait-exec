@@ -49,7 +49,8 @@ int main() {
 
 ```
 ##OUTPUT
-![](img/Screenshot%20at%202025-05-13%2017-53-11.png) 
+![image](https://github.com/user-attachments/assets/77fb0b2f-f189-4963-8422-9569d97194b4)
+
 
 
 
@@ -103,7 +104,8 @@ int main() {
 ```
 
 ##OUTPUT
-![](img/Screenshot%20at%202025-05-13%2018-00-57.png)
+![image](https://github.com/user-attachments/assets/9719b811-6cec-46a9-875a-ab0efb3489cb)
+
 
 # RESULT:
 The programs are executed successfully.
