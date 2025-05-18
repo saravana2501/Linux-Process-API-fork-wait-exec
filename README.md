@@ -50,9 +50,7 @@ int main() {
 ```
 ##OUTPUT
 
-![image](https://github.com/user-attachments/assets/2e0443e5-3f86-47fc-b3d1-0b1cda386db2)
-
-
+![](img/forkcheck.png) 
 
 
 
@@ -105,9 +103,7 @@ int main() {
 
 ##OUTPUT
 
-![image](https://github.com/user-attachments/assets/aa35b97d-a097-4e29-85d9-a2d45d81c674)
-
-
+![](img/execwait.png) 
 
 
 
